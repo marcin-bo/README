@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Marcin. 👋 
+# 👋 Hi! I'm Marcin Borek. 👋 
 
 Welcome to my GitHub profile! I'm a passionate software engineer based in Cracow, Poland.
 
