@@ -1,12 +1,12 @@
-# 👋 Hi! I'm Marcin Borek. 👋 
+# 👋 Hi! I'm Marcin Borek 👋 
 
-Welcome to my GitHub profile! I'm a passionate software engineer based in Cracow, Poland.
+Welcome to my GitHub profile! I'm a passionate software engineer based in Poland.
 
 ## About Me
 
 I'm dedicated to writing clean, efficient, and maintainable code. My main focus is on iOS and Swift development, and I'm always eager to learn and share my knowledge with the developer community.
 
-## Latest Writings
+## Latest Articles
 
 Here are some of my recent writings that you might find interesting:
 
