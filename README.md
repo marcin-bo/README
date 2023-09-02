@@ -10,6 +10,7 @@ I'm dedicated to writing clean, efficient, and maintainable code. My main focus 
 
 Here are some of my recent writings that you might find interesting:
 
+- [Dynamic programming for Swift Developers](https://github.com/marcin-bo/Algorithms-Notes-In-Swift/blob/main/Dynamic%20Programming/Dynamic%20programming.md)
 - [Unit Testing Best Practices in Swift](https://github.com/marcin-bo/Unit-Testing-In-Swift/blob/main/Unit%20Testing%20Best%20Practices%20in%20Swift.md)
 - [Unit Testing Patterns in Swift](https://github.com/marcin-bo/Unit-Testing-In-Swift/blob/main/Unit%20Testing%20Patterns%20in%20Swift.md)
 - [Unit Testing Terminology](https://github.com/marcin-bo/Unit-Testing-In-Swift/blob/main/Unit%20Testing%20Terminology.md)
