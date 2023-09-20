@@ -10,10 +10,14 @@ I'm dedicated to writing clean, efficient, and maintainable code. My main focus 
 
 Here are some of my recent writings that you might find interesting:
 
-- [Dynamic Programming for Swift Developers](https://github.com/marcin-bo/Algorithm-Notes-For-Swift-Developers/blob/main/Dynamic%20Programming/Dynamic%20programming.md)
-- [Unit Testing Best Practices in Swift](https://github.com/marcin-bo/Unit-Testing-In-Swift/blob/main/Unit%20Testing%20Best%20Practices%20in%20Swift.md)
-- [Unit Testing Patterns in Swift](https://github.com/marcin-bo/Unit-Testing-In-Swift/blob/main/Unit%20Testing%20Patterns%20in%20Swift.md)
-- [Unit Testing Terminology](https://github.com/marcin-bo/Unit-Testing-In-Swift/blob/main/Unit%20Testing%20Terminology.md)
+- Algorithm Notes for Swift Developers series:
+  - [Dynamic Programming](https://github.com/marcin-bo/Algorithm-Notes-For-Swift-Developers/blob/main/Dynamic%20Programming/Dynamic%20programming.md)
+  - [Merge Intervals](https://github.com/marcin-bo/Algorithm-Notes-For-Swift-Developers/blob/main/Merge%20Intervals/Merge%20Intervals.md)
+  - [Binary Search](https://github.com/marcin-bo/Algorithm-Notes-For-Swift-Developers/blob/main/Binary%20Search/Binary%20Search.md)
+- Unit Testing series:
+  - [Unit Testing Best Practices in Swift](https://github.com/marcin-bo/Unit-Testing-In-Swift/blob/main/Unit%20Testing%20Best%20Practices%20in%20Swift.md)
+  - [Unit Testing Patterns in Swift](https://github.com/marcin-bo/Unit-Testing-In-Swift/blob/main/Unit%20Testing%20Patterns%20in%20Swift.md)
+  - [Unit Testing Terminology](https://github.com/marcin-bo/Unit-Testing-In-Swift/blob/main/Unit%20Testing%20Terminology.md)
 
 Feel free to explore and engage with these resources!
 
