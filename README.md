@@ -9,7 +9,8 @@ I'm dedicated to writing clean, efficient, and maintainable code. My main focus 
 ## Latest Articles
 
 Here are some of my recent writings that you might find interesting:
-
+- iOS Programming Notes series:
+  - [Swift Concurrency](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Swift%20Concurrency/Swift%20Concurrency.md)
 - Algorithm Notes for Swift Developers series:
   - [Dynamic Programming](https://github.com/marcin-bo/Algorithm-Notes-For-Swift-Developers/blob/main/Dynamic%20Programming/Dynamic%20programming.md)
   - [Merge Intervals](https://github.com/marcin-bo/Algorithm-Notes-For-Swift-Developers/blob/main/Merge%20Intervals/Merge%20Intervals.md)
