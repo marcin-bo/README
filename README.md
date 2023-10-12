@@ -10,7 +10,10 @@ I'm dedicated to writing clean, efficient, and maintainable code. My main focus 
 
 Here are some of my recent writings that you might find interesting:
 - iOS Programming Notes series:
-  - [Method Dispatch in Swift](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Method%20Dispatch%20in%20Swift/Method%20Dispatch%20in%20Swift.md) 
+  - [Methods in Swift](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Methods/Methods.md)
+  - [Initializers in Swift](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Initializers/Initializers.md)
+  - [Method Dispatch in Swift](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Method%20Dispatch%20in%20Swift/Method%20Dispatch%20in%20Swift.md)
+  - <a href="https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/struct vs class vs actor/struct vs class vs actor.md">`struct` vs `class` vs `actor`</a>
   - [Concurrency in iOS](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Concurrency%20in%20iOS/Concurrency%20in%20iOS.md)
   - [Swift Concurrency](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Swift%20Concurrency/Swift%20Concurrency.md)
 - Algorithm Notes for Swift Developers series:
