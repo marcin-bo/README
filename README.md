@@ -16,6 +16,7 @@ Here are some of my recent writings that you might find interesting:
   - <a href="https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/struct vs class vs actor/struct vs class vs actor.md">`struct` vs `class` vs `actor`</a>
   - [Memory Management in Swift](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Memory%20Management%20in%20Swift/Memory%20Management%20in%20Swift.md)
   - [Concurrency in iOS](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Concurrency%20in%20iOS/Concurrency%20in%20iOS.md)
+  - [Concurrency Problems](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Concurrency%20Problems/Concurrency%20Problems.md)
   - [Swift Concurrency](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Swift%20Concurrency/Swift%20Concurrency.md)
 - Algorithm Notes for Swift Developers series:
   - [Dynamic Programming](https://github.com/marcin-bo/Algorithm-Notes-For-Swift-Developers/blob/main/Dynamic%20Programming/Dynamic%20programming.md)
