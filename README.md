@@ -15,7 +15,7 @@ Here are some of my recent writings that you might find interesting:
   - [Method Dispatch in Swift](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Method%20Dispatch%20in%20Swift/Method%20Dispatch%20in%20Swift.md)
   - <a href="https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/struct vs class vs actor/struct vs class vs actor.md">`struct` vs `class` vs `actor`</a>
   - [Memory Management in Swift](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Memory%20Management%20in%20Swift/Memory%20Management%20in%20Swift.md)
-  - [Concurrency in Swift](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Concurrency%20in%20iOS/Concurrency%20in%20iOS.md)
+  - [Concurrency in Swift](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Concurrency%20in%20Swift/Concurrency%20in%20Swift.md)
       - [Dispatch Queues](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Dispatch%20Queues/Dispatch%20Queues.md)
       - [Mastering Grand Central Dispatch](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Mastering%20GCD/Mastering%20GCD.md)
   - [Concurrency Problems](https://github.com/marcin-bo/iOS-Programming-Notes/blob/main/Concurrency%20Problems/Concurrency%20Problems.md)
